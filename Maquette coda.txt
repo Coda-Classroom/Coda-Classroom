@@ -1,0 +1,25 @@
+Header nav comme coda (retire brochure pour connexion/mes cours)
+Première page : 
+
+Présentation du projet 
+
+Option header : 
+Conseil (vidéo YouTube/codacast)
+
+front end
+
+back end
+
+design
+
+autre
+
+Pages "cours" : 
+
+Concept openclassroom
+
+tant que l'élève n'a pas réussi l'exo il ne peut pas passer au module suivant
+
+Concept "Classement" :
+
+gagne des l'exp quand ont finit un module, un classement est fait tout les mois puis le gagnant récupère des coda points
