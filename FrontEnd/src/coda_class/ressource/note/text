@@ -1,0 +1,52 @@
+classement : 
+{/* <div className='flex flex-col  items-start gap-5'>
+                <div className='ml-5 col-span-2 bg-darkviolet rounded-lg border-2 border-neutral-500 border-opacity-50 shadow-lg shadow-slate-900'> 
+                    <p className='text-xl text-yellow-700 bg-black bg-opacity-65 border-2 mb-2 px-8 uppercase rounded-t-md'>Classement</p>
+                     <Rang /> 
+                </div>
+            </div>  */}
+
+
+            // const Rang = () => {
+                //     const [hoveredItem, setHoveredItem] = useState(null);
+                
+                //     const handleMouseEnter = (index) => {
+                //         setHoveredItem(index);
+                //     };
+                
+                //     const handleMouseLeave = () => {
+                //         setHoveredItem(null);
+                //     };
+                
+                //     const items = [
+                //         'Exemple #1',
+                //         'Exemple #2',
+                //         'Exemple #3',
+                //         'Exemple #4',
+                //         'Exemple #5',
+                //         'Exemple #6',
+                //         'Exemple #7',
+                //         'Exemple #8',
+                //         'Exemple #9',
+                //         'Exemple #10',
+                //     ];
+                
+                //     return (
+                //         <ul
+                //             id='liste'
+                //             className='flex flex-col overflow-auto custom-scrollbar h-28 items-center text-center w-full text-lg cursor-pointer'
+                //             aria-label="Classement des exemples"
+                //         >
+                //             {items.map((item, index) => (
+                //                 <li
+                //                     key={index}
+                //                     onMouseEnter={() => handleMouseEnter(index)}
+                //                     onMouseLeave={handleMouseLeave}
+                //                     className={`w-full ${hoveredItem === index ? 'bg-purple-600' : 'hover:bg-neutral-500'}`}
+                //                 >
+                //                     {item}
+                //                 </li>
+                //             ))}
+                //         </ul>
+                //     );
+                // };
