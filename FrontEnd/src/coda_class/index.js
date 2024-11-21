@@ -39,20 +39,9 @@ const MainClass = () => {
 
       <section className="mt-8">
         <div className="flex flex-row space-x-4 rounded-full">
-          <video
-            controls
-            autoPlay
-            loop
-            muted
-            className="w-full shadow-lg rounded-50"
-          >
-            <source
-              src="https://media.giphy.com/media/2gYJ6T4xx898cAtmil/giphy.mp4"
-              type="video/mp4"
-            />
-            Votre navigateur ne supporte pas la balise vidéo.
-          </video>
 
+
+          <video></video>
           <video></video>
           <video></video>
         </div>
