@@ -1,21 +1,16 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}", 
-  ],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
       fontFamily: {
-        maPolice: ['Luciole'], // nom de la police personnalisée
+        maPolice: ["Luciole"], // nom de la police personnalisée
       },
       colors: {
-        darkviolet: '#060833',
-        darkviolet_sombre: '#080a25',
+        darkviolet: "#C7E9F7",
+        darkviolet_sombre: "#C7E9F7",
+      },
     },
+    plugins: [],
   },
-  plugins: [],
-}
 };
-
-
-

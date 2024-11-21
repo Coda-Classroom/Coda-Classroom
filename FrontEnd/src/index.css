@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Luciole';
-  src: url('./coda_class/ressource/Luciole-Regular.ttf') format('truetype');
+  font-family: "Luciole";
+  src: url("./coda_class/ressource/Luciole-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -15,27 +15,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #0a0227;
   color: white;
- 
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
 /* styles.css */
 .custom-scrollbar::-webkit-scrollbar {
-  width: 8px; 
-  
+  width: 8px;
 }
-
-
-
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
-  background:  #c8eb05; 
-  border-radius: 50px; 
-  
+  background: #c8eb05;
+  border-radius: 50px;
 }
-
-
